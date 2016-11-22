@@ -1,6 +1,6 @@
 ## *__ SinauGitar__*
 
-*aplikasi ini dibuat untuk menyediakan informasi dasar chord gitar dan beberapa contoh lagu untuk melatih kempuan.
+aplikasi ini dibuat untuk menyediakan informasi dasar chord gitar dan beberapa contoh lagu untuk melatih kemampuan.
 -------------------------------------------------------
 
 Screenshot :
