@@ -17,11 +17,15 @@ Screenshot :
 
 Video :
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=8IEfaCQP83g
+" target="_blank"><img src="http://img.youtube.com/vi/8IEfaCQP83g/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 
 -------------------------------------------------------
 
 Link File APK dari Aplikasi :
-
+https://drive.google.com/open?id=0BzJh0OcM4Wy9a1AzVVlVMk5xcGs
 
 -------------------------------------------------------
 
