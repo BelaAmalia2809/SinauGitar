@@ -1,6 +1,6 @@
-## *__ SinauGitar__*
-
-aplikasi ini dibuat untuk menyediakan informasi dasar chord gitar dan beberapa contoh lagu untuk melatih kemampuan.
+## *__SinauGitar__*
+-------------------------------------------------------
+###### aplikasi ini dibuat untuk menyediakan informasi dasar chord gitar dan beberapa contoh lagu untuk melatih kemampuan.
 -------------------------------------------------------
 
 Screenshot :
@@ -10,8 +10,6 @@ Screenshot :
 ![screenshot_2016-12-03-19-59-44](https://cloud.githubusercontent.com/assets/22131343/20859520/2fea5e7e-b994-11e6-9447-12f1d4bf0a53.png)
 ![screenshot_2016-12-03-19-59-51](https://cloud.githubusercontent.com/assets/22131343/20859521/2ff050b8-b994-11e6-8e15-ccbb48e09f20.png)
 ![screenshot_2016-12-03-19-57-43](https://cloud.githubusercontent.com/assets/22131343/20859522/2ff4922c-b994-11e6-957b-1730aeea4854.png)
-
-
 
 -------------------------------------------------------
 
@@ -25,7 +23,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 -------------------------------------------------------
 
 Link File APK dari Aplikasi :
-https://drive.google.com/open?id=0BzJh0OcM4Wy9a1AzVVlVMk5xcGs
+https://drive.google.com/file/d/0BwQGLOdEHPG0VldXV2dYQjdURmc/view?usp=sharing
 
 -------------------------------------------------------
 
@@ -37,12 +35,14 @@ https://drive.google.com/open?id=0BzJh0OcM4Wy9a1AzVVlVMk5xcGs
   * User Github   : BelaAmalia2809
   * Nama Sekolah  : SMK Telkom Malang
   
+  
   * Nama          : Luviana Dewi Indirasari
   * Kelas         : XI RPL 2
   * No Urut       : 14
   * NIS           : 4741/1450.070
   * User Github   : Luviana
   * Nama Sekolah  : SMK Telkom Malang
+  
   
   * Nama          : Ridwan Rofianto
   * Kelas         : XI RPL 2
@@ -51,6 +51,7 @@ https://drive.google.com/open?id=0BzJh0OcM4Wy9a1AzVVlVMk5xcGs
   * User Github   : Xalvdor
   * Nama Sekolah  : SMK Telkom Malang
   
+  
   * Nama          : Yefta Satria Utama
   * Kelas         : XI RPL 2
   * No Urut       : 32
@@ -58,8 +59,6 @@ https://drive.google.com/open?id=0BzJh0OcM4Wy9a1AzVVlVMk5xcGs
   * User Github   : Yefta11
   * Nama Sekolah  : SMK Telkom Malang
   
-  
-
 -------------------------------------------------------
 
 ###### *SMK Telkom Malang*
