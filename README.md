@@ -5,12 +5,12 @@ aplikasi ini dibuat untuk menyediakan informasi dasar chord gitar dan beberapa c
 
 Screenshot :
 
+![screenshot_2016-12-03-19-58-02](https://cloud.githubusercontent.com/assets/22131343/20859518/2fda20ae-b994-11e6-95df-567bfe28a527.png)
+![screenshot_2016-12-03-19-59-16](https://cloud.githubusercontent.com/assets/22131343/20859519/2fe48f30-b994-11e6-92e1-59e1492b66ab.png)
+![screenshot_2016-12-03-19-59-44](https://cloud.githubusercontent.com/assets/22131343/20859520/2fea5e7e-b994-11e6-9447-12f1d4bf0a53.png)
+![screenshot_2016-12-03-19-59-51](https://cloud.githubusercontent.com/assets/22131343/20859521/2ff050b8-b994-11e6-8e15-ccbb48e09f20.png)
+![screenshot_2016-12-03-19-57-43](https://cloud.githubusercontent.com/assets/22131343/20859522/2ff4922c-b994-11e6-957b-1730aeea4854.png)
 
-![whatsapp image 2016-11-22 at 21 02 46 2](https://cloud.githubusercontent.com/assets/22131343/20526569/36d4ff28-b0f7-11e6-890a-0ca4c2885113.jpeg)
-![whatsapp image 2016-11-22 at 21 02 46 3](https://cloud.githubusercontent.com/assets/22131343/20526570/36d79a8a-b0f7-11e6-9ebc-ff3cfad6311a.jpeg)
-![whatsapp image 2016-11-22 at 21 02 46 4](https://cloud.githubusercontent.com/assets/22131343/20526571/36e18f22-b0f7-11e6-8dd0-7d1f37ab6c1a.jpeg)
-![whatsapp image 2016-11-22 at 21 02 46](https://cloud.githubusercontent.com/assets/22131343/20526572/36e3012c-b0f7-11e6-8868-7ccbc45c42f5.jpeg)
-![whatsapp image 2016-11-22 at 21 02 46 1](https://cloud.githubusercontent.com/assets/22131343/20526573/36e9a6da-b0f7-11e6-912b-63a5260b4c57.jpeg)
 
 
 -------------------------------------------------------
